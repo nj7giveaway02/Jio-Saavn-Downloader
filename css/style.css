@@ -32,6 +32,10 @@ input[type=submit]:hover {
     text-align: center;
 }
 
+.center2 {
+    text-align: center;
+    font-size: 12px;
+
 a.button7 {
     display: inline-block;
     padding: .7em 1.7em;
