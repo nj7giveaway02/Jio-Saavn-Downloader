@@ -63,7 +63,8 @@ a.button7:active {
     }
 }
 body{
-  background:BLACK;
+  background: #000000;
+	color: #e7d9d5;
 }
 /* customizable snowflake styling */
 .snowflake {
