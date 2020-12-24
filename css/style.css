@@ -9,7 +9,7 @@ select {
     box-sizing: border-box
 }
 th {
-	color: #oooooo;
+	color: #fff;
 }
 input[type=submit] {
     width: 100%;
